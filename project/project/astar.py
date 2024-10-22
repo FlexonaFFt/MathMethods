@@ -49,7 +49,7 @@ def main():
 
 
     start = (0, 0)
-    goal = (4, 4)
+    goal = (2, 2)
     result_path = astar(grid, start, goal)
 
     print("Путь от A до B:")
